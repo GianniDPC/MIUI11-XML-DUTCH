@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------
 
-MIUI10 Dutch Translations based on MIUI6, MIUI7, MIUI8 and MIUI9 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI11 Dutch Translations based on MIUI6, MIUI7, MIUI8 and MIUI9 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
 
 Currently maintained by Cueie, MannyRibo, GianniDPC, Redmaner and Charliehpoels
 
