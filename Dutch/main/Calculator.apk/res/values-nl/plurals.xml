@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="entries">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+<plurals name="loan_repayment_detail">
+        <item quantity="one">Gedetailleerde terugbetaling (%d jaar)</item>
+        <item quantity="other">Gedetailleerde terugbetaling (%d jaar)</item>
+    </plurals>
+<plurals name="loan_repayment_detail_unit">
+        <item quantity="one">Gedetailleerde terugbetaling (%d jaar), CNY</item>
+        <item quantity="other">Gedetailleerde terugbetaling (%d jaar), CNY</item>
+    </plurals>
+<plurals name="mortgage_summary_years">
+        <item quantity="one">%1$d jaar (%2$d maanden)</item>
+        <item quantity="other">%1$d jaar (%2$d maanden)</item>
+    </plurals>
+</resources>

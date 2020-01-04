@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="dirty_blocklist_count">
+        <item quantity="one">%d blokkeerlijst invoer</item>
+        <item quantity="other">%d blokkeerlijst invoeren</item>
+    </plurals>
+<plurals name="dirty_browser_count">
+        <item quantity="one">%d browser item</item>
+        <item quantity="other">%d browser items</item>
+    </plurals>
+<plurals name="dirty_calendar_count">
+        <item quantity="one">%d agendapunt</item>
+        <item quantity="other">%d agendapunten</item>
+    </plurals>
+<plurals name="dirty_callog_count">
+        <item quantity="one">%d verslag belgeschiedenis</item>
+        <item quantity="other">%d verslagen belgeschiedenis</item>
+    </plurals>
+<plurals name="dirty_contacts_count">
+        <item quantity="one">%d contact</item>
+        <item quantity="other">%d contacten</item>
+    </plurals>
+<plurals name="dirty_image_count">
+        <item quantity="one">%d foto</item>
+        <item quantity="other">%d foto's</item>
+    </plurals>
+<plurals name="dirty_mms_count">
+        <item quantity="one">%d bericht</item>
+        <item quantity="other">%d berichten</item>
+    </plurals>
+<plurals name="dirty_music_count">
+        <item quantity="one">%d nummer</item>
+        <item quantity="other">%d nummers</item>
+    </plurals>
+<plurals name="dirty_note_count">
+        <item quantity="one">%d notitie</item>
+        <item quantity="other">%d notities</item>
+    </plurals>
+<plurals name="dirty_personalAssistant_count">
+        <item quantity="one">%d App-kluis item</item>
+        <item quantity="other">%d App-kluis items</item>
+    </plurals>
+<plurals name="dirty_phrase_count">
+        <item quantity="one">%d veelgebruikte zin</item>
+        <item quantity="other">%d veelgebruikte zinnen</item>
+    </plurals>
+<plurals name="dirty_recorder_count">
+        <item quantity="one">%d opname</item>
+        <item quantity="other">%d opnames</item>
+    </plurals>
+<plurals name="dirty_secretphoto_count">
+        <item quantity="one">%d verborgen foto niet gesynchroniseerd. Meld u af nadat alle items zijn gesynchroniseerd om deze te behouden, anderzijds zullen items worden verwijderd.</item>
+        <item quantity="other">%d verborgen foto's niet gesynchroniseerd. Meld u af nadat alle items zijn gesynchroniseerd om deze te behouden, anderzijds zullen items worden verwijderd.</item>
+    </plurals>
+<plurals name="dirty_wlan_count">
+        <item quantity="one">%d Wifi-netwerk</item>
+        <item quantity="other">%d Wifi-netwerken</item>
+    </plurals>
+<plurals name="items_unsynced">
+        <item quantity="one">Item wachtend op synchronisatie: %d</item>
+        <item quantity="other">Items wachtend op synchronisatie: %d</item>
+    </plurals>
+<plurals name="last_sync_time_hours_ago">
+        <item quantity="one">%s uur geleden</item>
+        <item quantity="other">%s uur geleden</item>
+    </plurals>
+<plurals name="last_sync_time_mins_ago">
+        <item quantity="one">%s minuut geleden</item>
+        <item quantity="other">%s minuten geleden</item>
+    </plurals>
+<plurals name="micloud_manual_pause_and_resume">
+        <item quantity="one">Synchronisatie wordt over %d minuut hervat</item>
+        <item quantity="other">Synchronisatie wordt over %d minuten hervat</item>
+    </plurals>
+<plurals name="provision_sync_items_status_title">
+        <item quantity="one">%s service zal gesynchroniseerd worden met Xiaomi Cloud</item>
+        <item quantity="other">%s services zullen gesynchroniseerd worden met Xiaomi Cloud</item>
+    </plurals>
+</resources>

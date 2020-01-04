@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d keer overgegaan</item>
+        <item quantity="one">%d keer overgegaan</item>
+    </plurals>
+<plurals name="more_coupons_count">
+        <item quantity="other">%d coupons</item>
+        <item quantity="one">%d coupon</item>
+    </plurals>
+<plurals name="review_count">
+        <item quantity="other">%d reacties bekijken</item>
+        <item quantity="one">%d reactie bekijken</item>
+    </plurals>
+</resources>

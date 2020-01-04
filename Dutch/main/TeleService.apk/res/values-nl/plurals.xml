@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="alert_dialog_exit_ecm">
+        <item quantity="one">De telefoon zal %s minuut in noodoproepmodus zijn. In deze modus kunnen er geen apps worden gebruikt die een dataverbinding gebruiken. Wilt u nu deze modus verlaten?</item>
+        <item quantity="other">De telefoon zal %s minuten in noodoproepmodus zijn. In deze modus kunnen er geen apps worden gebruikt die een dataverbinding gebruiken. Wilt u nu deze modus verlaten?</item>
+    </plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="one">De geselecteerde actie is niet beschikbaar in noodoproepmodus. De telefoon zal %s minuut in deze modus zijn. Wilt u deze modus nu verlaten?</item>
+        <item quantity="other">De geselecteerde actie is niet beschikbaar in noodoproepmodus. De telefoon zal %s minuten in deze modus zijn. Wilt u deze modus nu verlaten?</item>
+    </plurals>
+<plurals name="auto_answer_summary_delay">
+        <item quantity="one">vertraging: %s seconde</item>
+        <item quantity="other">vertraging: %s seconden</item>
+    </plurals>
+<plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="one">U kunt maximaal %s persoon toevoegen, opnieuw selecteren.</item>
+        <item quantity="other">U kunt maximaal %s personen toevoegen, opnieuw selecteren.</item>
+    </plurals>
+<plurals name="call_record_auto_whitelist_summary">
+        <item quantity="one">%d nummer</item>
+        <item quantity="other">%d nummers</item>
+    </plurals>
+<plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="one">%d nummer zal worden verwijderd.</item>
+        <item quantity="other">%d nummers zullen worden verwijderd.</item>
+    </plurals>
+<plurals name="pin_attempts">
+        <item quantity="one">\10%d poging resterend.</item>
+        <item quantity="other">\10%d pogingen resterend.</item>
+    </plurals>
+<plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d apparaat verbonden</item>
+        <item quantity="other">%1$d apparaten verbonden</item>
+    </plurals>
+</resources>

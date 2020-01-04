@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="color_mode_labels">
+        <item>Zwart-wit</item>
+        <item>Kleur</item>
+    </array>
+<array name="duplex_mode_labels">
+        <item>Geen</item>
+        <item>Lange zijde</item>
+        <item>Korte zijde</item>
+    </array>
+<array name="orientation_labels">
+        <item>Staand</item>
+        <item>Liggend</item>
+    </array>
+</resources>

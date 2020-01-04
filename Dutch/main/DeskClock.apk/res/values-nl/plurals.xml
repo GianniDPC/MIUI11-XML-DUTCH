@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="alarm_alert_snooze_set">
+        <item quantity="one">Sluimeren voor %d minuut.</item>
+        <item quantity="other">Sluimeren voor %d minuten.</item>
+    </plurals>
+<plurals name="day">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dagen</item>
+    </plurals>
+<plurals name="delete_alarm_confirm">
+        <item quantity="one">Dit alarm verwijderen?</item>
+        <item quantity="other">Geselecteerde alarmen verwijderen?</item>
+    </plurals>
+<plurals name="delete_timezone_confirm">
+        <item quantity="one">Deze tijdzone verwijderen?</item>
+        <item quantity="other">De geselecteerde tijdzones verwijderen?</item>
+    </plurals>
+<plurals name="hour">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uur</item>
+    </plurals>
+<plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="one">%1$d dag</item>
+        <item quantity="other">%1$d dagen</item>
+    </plurals>
+<plurals name="minute">
+        <item quantity="one">%d minuut</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+<plurals name="second">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+<plurals name="snooze_duration_changed_info">
+        <item quantity="one">Sluimerinterval gewijzigd naar %d minuut</item>
+        <item quantity="other">Sluimerinterval gewijzigd naar %d minuten</item>
+    </plurals>
+<plurals name="snooze_duration_count">
+        <item quantity="one">%1$s keer afgaan</item>
+        <item quantity="other">%1$s keer afgaan</item>
+    </plurals>
+<plurals name="snooze_duration_desc">
+        <item quantity="one">Iedere %1$s min, gaat %2$s keer af</item>
+        <item quantity="other">Iedere %1$s min, gaat %2$s keer af</item>
+    </plurals>
+<plurals name="snooze_duration_min">
+        <item quantity="one">Elke %1$s min</item>
+        <item quantity="other">Elke %1$s min</item>
+    </plurals>
+<plurals name="snooze_duration_summary">
+        <item quantity="one">Alarm zal %2$s keer afgaan (%1$s min.)</item>
+        <item quantity="other">Alarm zal %2$s keer afgaan (%1$s elke min.)</item>
+    </plurals>
+<plurals name="snooze_message">
+        <item quantity="one">Sluimeren voor %d minuut</item>
+        <item quantity="other">Sluimeren voor %d minuten</item>
+    </plurals>
+<plurals name="timer_message_hour">
+        <item quantity="one">%1$d uur </item>
+        <item quantity="other">%1$d uren </item>
+    </plurals>
+<plurals name="timer_message_minute">
+        <item quantity="one">%1$d minuut </item>
+        <item quantity="other">%1$d minuten </item>
+    </plurals>
+<plurals name="timer_message_second">
+        <item quantity="one">%1$d seconde</item>
+        <item quantity="other">%1$d seconden</item>
+    </plurals>
+</resources>
